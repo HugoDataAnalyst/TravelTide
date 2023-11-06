@@ -36,9 +36,9 @@ Here are some questions to consider as we reflect on the business problem and cr
 
 ![TRAVELTIDE](https://github.com/HugoDataAnalyst/TravelTide/blob/main/Images/traveltide2.jpg)
 
-## Binder
+## [Build Jupyter Notebook with Binder](https://mybinder.org/v2/gh/HugoDataAnalyst/TravelTide/HEAD)
 
-[Build Jupyter Notebook with Binder](https://mybinder.org/v2/gh/HugoDataAnalyst/TravelTide/HEAD)
+
 
 ## [Presentation Video](https://youtu.be/dqecswpZ39M)
 
